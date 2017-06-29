@@ -1,0 +1,26 @@
+** Panel 19 de Junio
+   :LOGBOOK:
+   CLOCK: [2017-06-27 Tue 18:07]--[2017-06-27 Tue 18:15] =>  0:08
+   :END:
+*** ¿En qué condiciones funciona la autogestión?
+*** ¿Cómo se toman las desiciones de la industria de la músical en medellín?
+**** ¿Qué informan los gremios?
+**** ¿Cómo decide el sector público?
+**** ¿Cómo decide el sector privado?
+*** ¿Qué generos se han documentado? ¿solo punk, metal?
+*** Información Estructurada
+**** DataTypes
+***** Gestor Cultural
+***** Institucion
+***** Talento
+***** Medio
+**** Operadores
+**** Estructuras de control
+***** Autosostenibilidad
+****** Autogestión
+**** Funciones
+***** Unidad de trabajo
+****** Concierto
+******* Difusión
+******** Entrevista
+******** Rotación radio
