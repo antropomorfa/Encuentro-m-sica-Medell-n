@@ -1,26 +1,45 @@
-** Panel 19 de Junio
-   :LOGBOOK:
-   CLOCK: [2017-06-27 Tue 18:07]--[2017-06-27 Tue 18:15] =>  0:08
-   :END:
-*** ¿En qué condiciones funciona la autogestión?
-*** ¿Cómo se toman las desiciones de la industria de la músical en medellín?
-**** ¿Qué informan los gremios?
+ 
+** ¿En qué condiciones funciona la autogestión?
+*** ¿Síndrome de "auto..."? 
+** ¿Cómo se toman las desiciones de la industria de la músical en medellín?
+*** ¿Qué informan los gremios?
 **** ¿Cómo decide el sector público?
-**** ¿Cómo decide el sector privado?
-*** ¿Qué generos se han documentado? ¿solo punk, metal?
-*** Información Estructurada
-**** DataTypes
-***** Gestor Cultural
-***** Institucion
-***** Talento
-***** Medio
-**** Operadores
-**** Estructuras de control
-***** Autosostenibilidad
-****** Autogestión
-**** Funciones
-***** Unidad de trabajo
-****** Concierto
-******* Difusión
-******** Entrevista
-******** Rotación radio
+**** ¿Indicadores cuantitativos?
+*** ¿Cómo decide el sector privado?
+**** ¿Dictador benévolente?
+** ¿Cómo se hace curaduría de las bandas que participan de los concursos/festivales musicales en el sector público?
+** ¿Qué generos se han documentado? ¿solo punk, metal?
+** ¿Qué aportes/aprendizajes/procesos ha dejado el sector privado a las personas y a los músicos?
+** ¿Qué aportes/aprendizajes/procesos ha dejado el sector público?
+** ¿Qué aprendizajes/procesos existen desde la autogestión?
+** ¿Es necesario recuperar la memoria de la diversidad musical?
+** Talento
+*** Juan Antonio Agudelo 
+Fito Páez, Diamanda Gales, Madredeus, Misia, Adriana Varela, Lila Downs, Concha Buika, Emir Kusturica
+** Información Estructurada
+*** Tipos
+**** Gestor Cultural
+**** Institucion
+**** Talento
+**** Medio
+**** Seguidor
+**** Líder
+*** Operadores
+**** Patrocinio
+**** Apoyo
+**** Estímulo
+*** Estructuras de control
+**** Autosostenibilidad
+***** Autogestión
+*** Funciones
+**** Unidad de trabajo
+***** Concierto
+****** Difusión
+******* Entrevista
+******* Rotación radio
+*** Procesos
+**** Escuelas 
+**** Medios
+**** Agenda eventos
+**** Becas
+**** Mercados Culturales
