@@ -1,6 +1,7 @@
  
 * Escena M
-** Estado actual de la escena musical de Mmedellin
+** Estado actual de la escena musical de Medellin
+*** Si las redes sociales ya permiten expresarse y encontrar la tribu a la que se pertenece, ¿Qué papel juega la música en medellín actualmente?
 *** ¿Cuantos grupos se inscriben en Altavoz?
 *** ¿Cómo estamos reaccionando a la apertura del mercado? 
 *** ¿Agremiaciones?
@@ -26,61 +27,87 @@
 **** ¿Pablo tobón Uribe?
 **** ¿Teatro Carlos Vieco?
 **** ¿Lido?
-** Sentido y pertinencia de la escena musical
-** Estado actual de la escena musical de Medellín.
-** Perspectivas, desafíos y oportunidades.
-** Retos de los actores o agentes de la escena musical.
-** La pluralidad de las músicas: la diversidad de las expresiones musicales en el marco de una ciudad compleja.
-** Resistencia y adaptación en las músicas: experiencias de gestión, autogestión y concepciones de la gestión.
-** Los datos abiertos en la música.
-
-** Si las redes sociales ya permiten expresarse y encontrar la tribu a la que se pertenece, ¿Qué papel juega la música en medellín actualmente?
-** ¿En qué condiciones funciona la autogestión?
-*** ¿Síndrome de "auto..."? 
-** ¿Cómo se toman las desiciones de la industria de la músical en medellín?
-*** ¿Qué informan los gremios?
-**** ¿Cómo decide el sector público?
-**** ¿Indicadores cuantitativos?
-*** ¿Cómo decide el sector privado?
-**** ¿Dictador benévolente?
-** ¿Cómo se hace curaduría de las bandas que participan de los concursos/festivales musicales en el sector público?
-** ¿Qué generos se han documentado? ¿solo punk, metal?
-*** Centro de Documentación Musical El Jordán
-*** Centro de Documentación Musical Biblioteca Nacional de Colombia.
-*** Centro de Documentación Musical Orquesta Filarmónica de Bogotá – OFB
-*** Centro de Documentación e Investigación Musical del Quindío
-*** Centro de Documentación Musical – Instituto de Cultura y Patrimonio de Antioquia y Fonoteca Departamental Hernán Restrepo Duque
-*** Sala de Patrimonio Documental Universidad Eafit.
-*** Centro de Documentación Luis Carlos Medina Carreño. Facultad de Artes Universidad de Antioquia.
-*** Libros
-**** Medellín en vivo
-**** Kraken
-**** Medellín en canciones
-**** Los Yetis
-*** Documentales
-**** El diablo nació en Medellín 
-** ¿Qué aportes/aprendizajes/procesos ha dejado el sector privado a las personas y a los músicos?
-** ¿Qué aportes/aprendizajes/procesos ha dejado el sector público?
-** ¿Qué aprendizajes/procesos existen desde la autogestión?
-** ¿Es necesario recuperar la memoria de la diversidad musical?
-** ¿Qué cosas separan a la música de la industria de la música?
-Muchos argumentos son tomados de una publicación en una red social https://www.facebook.com/fede2001/posts/10155239082090339
-*** Diferentes  objetivos
-**** Económicos
-***** ¿La inustria solo tiene interés económico?
-*** Reconocimiento
-**** Vanidad
-*** Convertir en objeto de consumo
-*** Amplificar 
-**** Más aclance
-**** Más consumo
-*** En la creación
-**** El enfoque con que se hace la música
-*** Trabajo organizado
-*** Reglas
-*** Estandarización
-** ¿Radical vs. Sistema?
-*** ¿El sistema trata de integrar a sus detractores?
+*** La pluralidad de las músicas: la diversidad de las expresiones musicales en el marco de una ciudad compleja.
+*** Sentido y pertinencia de la escena musical
+*** Resistencia y adaptación en las músicas: experiencias de gestión, autogestión y concepciones de la gestión.
+**** ¿Cómo esta resistiendo el sector independiente a los intermediarios corporativos? facebook google etc
+*** Los datos abiertos en la música.
+*** ¿En qué condiciones funciona la autogestión?
+**** ¿Síndrome de "auto..."? 
+*** ¿Cómo se toman las desiciones de la industria de la músical en medellín?
+**** ¿Qué informan los gremios?
+***** ¿Cómo decide el sector público?
+***** ¿Indicadores cuantitativos?
+**** ¿Cómo decide el sector privado?
+***** ¿Dictador benévolente?
+*** ¿Cómo se hace curaduría de las bandas que participan de los concursos/festivales musicales en el sector público?
+*** ¿Qué generos se han documentado? ¿solo punk, metal?
+**** Centro de Documentación Musical El Jordán
+**** Centro de Documentación Musical Biblioteca Nacional de Colombia.
+**** Centro de Documentación Musical Orquesta Filarmónica de Bogotá – OFB
+**** Centro de Documentación e Investigación Musical del Quindío
+**** Centro de Documentación Musical – Instituto de Cultura y Patrimonio de Antioquia y Fonoteca Departamental Hernán Restrepo Duque
+**** Sala de Patrimonio Documental Universidad Eafit.
+**** Centro de Documentación Luis Carlos Medina Carreño. Facultad de Artes Universidad de Antioquia.
+**** Libros
+***** Medellín en vivo
+***** Kraken
+***** Medellín en canciones
+***** Los Yetis
+**** Documentales
+****** El diablo nació en Medellín 
+*** ¿Qué aportes/aprendizajes/procesos ha dejado el sector privado a las personas y a los músicos?
+*** ¿Qué aportes/aprendizajes/procesos ha dejado el sector público?
+*** ¿Qué aprendizajes/procesos existen desde la autogestión?
+*** ¿Es necesario recuperar la memoria de la diversidad musical?
+*** ¿Qué cosas separan a la música de la industria de la música?
+ Muchos argumentos son tomados de una publicación en una red social https://www.facebook.com/fede2001/posts/10155239082090339
+**** Diferentes  objetivos
+***** Económicos
+****** ¿La inustria solo tiene interés económico?
+**** Reconocimiento
+***** Vanidad
+**** Convertir en objeto de consumo
+**** Amplificar 
+***** Más aclance
+***** Más consumo
+**** En la creación
+***** El enfoque con que se hace la música
+**** Trabajo organizado
+**** Reglas
+**** Estandarización
+*** ¿Radical vs. Sistema?
+**** ¿El sistema trata de integrar a sus detractores?
+*** ¿Hay industria sin ánimo de lucro?
+*** ¿Cómo definirías ser "exitoso" en la industria? ¿Crees que se podría modelar matemáticamente eso?
+*** ¿No crees que la vanidad es otro tipo de retribucion que puede reemplazar el dinero en la industria de la música?
+*** ¿Pero la vanidad no es un bien valorado que puede cambiarse por dinero? ¿eso no lo convierte en un valor intercambiable en un mercado?
+*** ¿aplicaría eso también en la industria de la música para películas? ¿o a la industria del jazz?
+*** ¿Las músicas de vanguardia y experimentales no tienen su pequeña industria en academias y festivales?
+*** ¿Dirías que la industria es un amplificador de la relación de consumo entre un creador y unos consumidores?
+*** ¿existe industria para cantidades pequeñas?
+***  ¿es la necesidad de ganar dinero la esencia de la industria de la música?
+*** ¿una música creada a partir de la necesidad de decir algo no podría ser industrializada? 
+*** ¿Qué formatos usan las músicas que no participan de la industria? 
+*** ¿Conoces música que se hizo sin pensar en la industria, y que luego haya sido explotada industrialmente?
+*** ¿el crecimiento economico de las empresas de sonido, luces etc podría parcer más rápido que el crecimiento económico de los grupos vendiendo su música, incluso sus conciertos? 
+*** ¿cómo podríamos comparar esos crecimientos?
+*** Industria y música ¿El espectador es manipulado por ambas? ¿puede el espectador manipularlas?
+*** ¿ un vivaracho puede explotar una música autoeliminada metiendola a la industria? 
+*** ¿Tiene la industria capacidad de expresión por si sola?
+***  ¿Lo que desató Sean Parker (Napster) podría valer como expresión?
+***  ¿No sería posible entonces tener una industria del legado y la nostalgia? ¿Aparte de volver de moda una década anterior existe alguna industria para músicas del pasado que no estan de moda?
+***  ¿La música contiene a la industria de la música? ¿podría ser entonces, la industria de la música, una expresión más de la música? ¿quizá un mecanismo de supervivencia?  Virus
+** Desafios 
+*** ¿La liga mediana?
+*** Perspectivas, desafíos y oportunidades.
+*** Retos de los actores o agentes de la escena musical.
+*** Cifras para tomar desiciones
+*** ¿No crees que la industria esta capacitandose para explotar muchas minorías?
+*** Retos: Globalización ya se paga a facebook youtube no a codiscos fuentes intermediarios corporativos
+*** ¿crees que llegue a la industria de la música esa desaceleración para hacer proyectos mas hondos?
+*** Homogenización?
+*** ¿Estará la música empujando hacia la era post-industrial ?
 ** Preguntas de 
 http://www.hagalau.net/noticias/1734-en-medellin-la-musica-nos-exige-que-volvamos-a-ser-personas-opinion
 ¿cuál es el sentido de hacer música? ¿Por qué componer una canción?  ¿Es el éxito comercial, el reconocimiento o la fama la premisa de los grupos en la ciudad? ¿Hay una confusión entre vivir dignamente de la música y querer ser estrellas? ¿En la música  y en el contexto particular de la ciudad ya aplica el #todovale? ¿Dónde queda el arte? ¿Ha suplido el entretenimiento la creación poética?
